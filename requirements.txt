@@ -1,37 +1,14 @@
-backcall @ file:///home/conda/feedstock_root/build_artifacts/backcall_1592338393461/work
-backports.functools-lru-cache @ file:///home/conda/feedstock_root/build_artifacts/backports.functools_lru_cache_1618230623929/work
 black==21.12b0
 certifi==2021.10.8
 click==8.0.3
-colorama @ file:///home/conda/feedstock_root/build_artifacts/colorama_1602866480661/work
-debugpy @ file:///D:/bld/debugpy_1636043475787/work
-decorator @ file:///home/conda/feedstock_root/build_artifacts/decorator_1641555617451/work
-entrypoints @ file:///home/conda/feedstock_root/build_artifacts/entrypoints_1605121927639/work/dist/entrypoints-0.3-py2.py3-none-any.whl
 importlib-metadata==4.10.0
-ipykernel @ file:///D:/bld/ipykernel_1642098484322/work/dist/ipykernel-6.7.0-py3-none-any.whl
-ipython @ file:///C:/ci/ipython_1635944342510/work
-jedi @ file:///D:/bld/jedi_1637175334802/work
-jupyter-client @ file:///home/conda/feedstock_root/build_artifacts/jupyter_client_1637611911738/work
-jupyter-core @ file:///D:/bld/jupyter_core_1636814429283/work
-matplotlib-inline @ file:///home/conda/feedstock_root/build_artifacts/matplotlib-inline_1631080358261/work
 mypy-extensions==0.4.3
-nest-asyncio @ file:///home/conda/feedstock_root/build_artifacts/nest-asyncio_1638419302549/work
 numpy==1.21.5
-parso @ file:///home/conda/feedstock_root/build_artifacts/parso_1638334955874/work
 pathspec==0.9.0
-pickleshare @ file:///home/conda/feedstock_root/build_artifacts/pickleshare_1602536217715/work
 platformdirs==2.4.1
-prompt-toolkit @ file:///home/conda/feedstock_root/build_artifacts/prompt-toolkit_1639065841292/work
-Pygments @ file:///home/conda/feedstock_root/build_artifacts/pygments_1641580240686/work
-python-dateutil @ file:///home/conda/feedstock_root/build_artifacts/python-dateutil_1626286286081/work
 pywin32==303
-pyzmq @ file:///D:/bld/pyzmq_1635877471210/work
-six @ file:///home/conda/feedstock_root/build_artifacts/six_1620240208055/work
 tomli==1.2.3
-tornado @ file:///D:/bld/tornado_1635819780833/work
-traitlets @ file:///home/conda/feedstock_root/build_artifacts/traitlets_1635260543454/work
 typed-ast==1.5.1
 typing_extensions==4.0.1
-wcwidth @ file:///home/conda/feedstock_root/build_artifacts/wcwidth_1600965781394/work
 wincertstore==0.2
 zipp==3.7.0
